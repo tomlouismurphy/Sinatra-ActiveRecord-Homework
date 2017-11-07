@@ -12,7 +12,7 @@ Sinatra-ActiveRecord-Homework
 7.  Populate your database with at least ten entries
 8.  Create a view that renders all of your database entries (retrieve this data via ajax) Create all the markup via Javascript, 
 your html page should be blank except for your links.
-9. Create another view that renders all of your database entries using The sinatra erb variables (Check the gitbook, erb in depth for example)
+9. Create another view that renders all of your database entries using The sinatra erb variables 
 10.  Create a gulp file and do some styling in less.
 
 
